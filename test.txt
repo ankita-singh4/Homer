@@ -1,4 +1,2 @@
-Hi I have made some changes to this file now
-----------------------
+testing git setup!
 
-Adding text to test branching.....
